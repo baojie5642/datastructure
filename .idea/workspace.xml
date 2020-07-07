@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36799dd6-8edb-4c84-8cd2-c1ba35258898" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/baojie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CreateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HeadToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MergeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,13 +144,25 @@
       <option name="presentableId" value="Default" />
       <updated>1580539743203</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1594147394880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594147394881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="112" key="CommitChangelistDialog2" timestamp="1594147320302">
+    <state x="598" y="112" key="CommitChangelistDialog2" timestamp="1594147582917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="112" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594147320302" />
+    <state x="598" y="112" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594147582917" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594146072197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -183,5 +179,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594146080924" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1594147592232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594147592232" />
   </component>
 </project>
